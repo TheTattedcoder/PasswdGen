@@ -8,4 +8,8 @@ Functions
 List Comprehension 
 The use of modules and methods
 
+
+## Notes
+
 Please feel free to add  to it. I greatly appreciate it. In the future I will be adding on to this program in order to make it more efficient and being able to understand certain concepts
+
